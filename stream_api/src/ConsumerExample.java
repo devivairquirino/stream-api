@@ -17,7 +17,6 @@ public class ConsumerExample {
                 System.out.println(num);
             }
         });
-
         // usando Consumer
         numeros.forEach(imprimirNumeroPar);
     }
